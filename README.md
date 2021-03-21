@@ -1,5 +1,7 @@
 👋 Hi, I’m Jee.
+
 👀 I’m interested in UX, HCI and video contents.
+
 🌱 I’m currently learning Frontend development including JavaScript and React js!
 
 <!---
