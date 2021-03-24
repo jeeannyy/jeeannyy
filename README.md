@@ -1,6 +1,6 @@
-👋 Hi, I’m Jee.
+👋 Hi, I’m Jeeann
 
-👀 I’m interested in UX, HCI and video contents.
+👀 I’m interested in UX and front-end development.
 
 🌱 I’m currently learning Frontend development including JavaScript and React js!
 
