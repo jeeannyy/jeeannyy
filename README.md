@@ -1,8 +1,8 @@
 👋 Hi, I’m Jeeann
 
-👀 I’m interested in UX and front-end development.
+👀 I’m interested in UXD and Front-End Development.
 
-🌱 I’m currently learning Frontend development including JavaScript and React js!
+🌱 I’m currently learning JavaScript and React js!
 
 <!---
 jeeannyy/jeeannyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
