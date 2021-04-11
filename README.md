@@ -1,4 +1,4 @@
-👋 Hi, I’m Jeeann
+👋 Hi, I’m Jee
 
 👀 I’m interested in UXD and Front-End Development.
 
