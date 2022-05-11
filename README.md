@@ -1,6 +1,6 @@
 👋 Hi, I’m Jeeann!
 
-👀 I’m interested in UXD and Front-End Development.
+👀 I’m interested in HCI and Front-End Development.
 
 🌱 I’m currently learning JavaScript and React js!
 
