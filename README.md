@@ -1,4 +1,6 @@
-✨ Hi, I’m Jeeann!
+## Hi there, I’m Jeeann!
 
-🎨 I’m highly self-motivated Junior full stack engineer, passionate about human-computer interactions and artificial intelligence.
+👩🏻‍💻 Junior Full-stack developer based in London, UK 🇬🇧
+🌱 I’m learning React 
+🦕 Passionate about human-computer interactions and artificial intelligence
 
