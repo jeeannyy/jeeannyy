@@ -1,6 +1,6 @@
 ## Hi there, I’m Jeeann!
 
-👩🏻‍💻 Junior Full-stack developer based in London, UK 🇬🇧
+🇬🇧 Junior Full-stack developer based in London
 
 🌱 I’m learning React 
 
