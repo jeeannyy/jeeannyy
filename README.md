@@ -6,7 +6,7 @@
 
 🦕 Eager to expand my existing knowledge and broad experience in a collaborative working environment
 
-📹 A strong background in media, content and marketing industry
+🎬 A strong background in media, content and marketing industry
 
 🤖 Main stacks are JavaScript, React.js, Node.js, TypeScript, GraphQL, Express.js, MongoDB
 
