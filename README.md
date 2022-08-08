@@ -1,6 +1,6 @@
 ## Hi there, I’m Jeeann!
 
-🌱 Junior Full-stack developer based in London (But made in 'South' Korea)
+🌱 Junior Full-stack developer based in London (But made in South Korea)
 
 ✨ Highly self-motivated software engineer, passionate about human-computer interactions and artificial intelligence
 
