@@ -8,7 +8,7 @@
 
 🎬 A strong background in media, content and marketing industry
 
-🤖 Main stacks are JavaScript, React.js, Node.js, TypeScript, GraphQL, Express.js, MongoDB
+🤖 Main stacks are JavaScript, React.js, Node.js, GraphQL, Express.js, MongoDB
 
 
 
