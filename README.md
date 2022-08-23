@@ -1,6 +1,6 @@
 ## Hi there, I’m Jeeann!
 
-🌱 Junior Full-stack developer based in London (But made in South Korea)
+🌱 Junior Full-stack developer based in London 
 
 ✨ Highly self-motivated software engineer, passionate about human-computer interactions and artificial intelligence
 
@@ -8,7 +8,7 @@
 
 🎬 A strong background in media, content and marketing industry
 
-🤖 Main stacks are JavaScript, React.js, Node.js, TypeScript, GraphQL, Express.js, MongoDB
+🤖 Main stacks are JavaScript, React.js, Node.js, TypeScript, Express.js, MongoDB
 
 
 
