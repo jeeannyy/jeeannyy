@@ -1,8 +1,8 @@
 ## Hi there, I’m Jeeann!
 
-🌱 Junior Full-stack developer based in London 
+🌱 Highly self-motivated Full-stack developer based in London 
 
-✨ Highly self-motivated software engineer, passionate about human-computer interactions and artificial intelligence
+✨ Passionate about human-computer interactions, media art and artificial intelligence
 
 🦕 Eager to expand my existing knowledge and broad experience in a collaborative working environment
 
