@@ -8,7 +8,7 @@
 
 🦕 Eager to expand my existing knowledge and broad experience in a collaborative working environment
 
-🤖 Main stacks are JavaScript, React.js, Node.js, TypeScript, Express.js, MongoDB
+🤖 Main stacks are JavaScript, React.js, TypeScript, Node.js
 
 
 
