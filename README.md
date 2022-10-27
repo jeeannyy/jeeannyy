@@ -4,7 +4,7 @@
 
 ✨ Passionate about human-computer interactions, media arts and artificial intelligence
 
-🎬 A strong background in media, content and marketing industry
+🎬 A strong background in media and marketing industry
 
 🦕 Eager to expand my existing knowledge and broad experience in a collaborative working environment
 
