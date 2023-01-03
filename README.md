@@ -1,6 +1,6 @@
 ## Hi there, I’m Jeeann!
 
-🦕 Highly self-motivated Full-stack developer based in London, UK
+🦕 Highly self-motivated Frontend developer based in London, UK
 
 ✨ Passionate about human-computer interactions, media arts and artificial intelligence
 
