@@ -4,7 +4,7 @@
 
 ✨ Passionate about human-computer interactions, media arts and artificial intelligence
 
-🤖 Main stacks are JavaScript, React.js, TypeScript and Node
+🤖 Main stacks are JavaScript, React.js, TypeScript and Node.js
 
 
 
