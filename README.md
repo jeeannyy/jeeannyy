@@ -1,10 +1,10 @@
 ## Hi there, I’m Jeeann!
 
-🦕 Highly self-motivated Frontend developer based in London, UK
+🦕 Full-Stack Developer based in **London & Zurich**, passionate about human-computer interaction (HCI), media arts, and artificial intelligence 
 
-✨ Passionate about human-computer interactions, media arts and artificial intelligence
+🤖 I specialize in **JavaScript, TypeScript, React and Node.js**, crafting seamless and user-centric experiences
 
-🤖 Main stacks are JavaScript, React.js, TypeScript and Node.js
+✨ Beyond work, I am dedicated to bridging knowledge gaps in tech through open-source contributions and mentoring
 
 
 
