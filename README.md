@@ -1,6 +1,6 @@
 ## Hi there, I’m Jeeann!
 
-🦕 Full-Stack Developer based in **London & Zurich**, passionate about human-computer interaction (HCI), media arts, and artificial intelligence 
+🦕 Full-Stack Developer based in London & Zurich, passionate about human-computer interaction, media arts, and AI
 
 🤖 I specialize in **JavaScript, TypeScript, React and Node.js**, crafting seamless and user-centric experiences
 
